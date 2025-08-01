@@ -76,6 +76,10 @@ factverse/
 
 ## �️ Installation & Usage
 
+in termux first install 
+1) pip install pandas
+2) pip install openai
+
 ### Quick Start (Hacker Mode)
 ```bash
 cd factverse
